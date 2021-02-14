@@ -1,4 +1,4 @@
-# nitro-gen-detay-src
+# nitro-gen-src
 **Bravo pour ton token grabber 👏**
 
 [Vidéo originale de Detay.](https://youtu.be/N_6QJgHiTsM)
