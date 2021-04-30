@@ -7,5 +7,5 @@ Ce répertoire met en avant les (soi-disant) "générateurs" de Nitro qui sont �
 - Les programmes sont publiés à but préventive, afin d'éviter que des gens, croyant en ce genre de programme, se fassent avoir par ces derniers.
 - Ce répertoire permet aussi de prouver le côté malveillant des personnes faisant ces programmes-là.
 ```
-[Vidéo originale de Detay.](https://youtu.be/N_6QJgHiTsM)<br>
-[Vidéo originale d'Adycos.](https://www.youtube.com/watch?v=qiLu71UCc5c)
+[Vidéo originale de Detay.](https://youtu.be/N_6QJgHiTsM) ([vidéo supprimé depuis par l'utilisateur](screens/detay.png))<br>
+[Vidéo originale d'Adycos.](https://www.youtube.com/watch?v=qiLu71UCc5c) ([vidéo supprimé depuis par YouTube](screens/adycos.png))
