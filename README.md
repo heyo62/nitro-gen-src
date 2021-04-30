@@ -8,4 +8,5 @@ Ce répertoire met en avant les (soi-disant) "générateurs" de Nitro qui sont �
 - Ce répertoire permet aussi de prouver le côté malveillant des personnes faisant ces programmes-là.
 ```
 [Vidéo originale de Detay.](https://youtu.be/N_6QJgHiTsM) ([vidéo supprimé depuis par l'utilisateur](screens/detay.png))<br>
-[Vidéo originale d'Adycos.](https://www.youtube.com/watch?v=qiLu71UCc5c) ([vidéo supprimé depuis par YouTube](screens/adycos.png))
+[Vidéo originale d'Adycos.](https://youtu.be/qiLu71UCc5c) ([vidéo supprimé depuis par YouTube](screens/adycos.png))
+[Vidéo originale de Merci/Kryzoy](https://youtu.be/MLuZz-wL6_Y)
