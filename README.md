@@ -9,4 +9,4 @@ Ce répertoire met en avant les (soi-disant) "générateurs" de Nitro qui sont �
 ```
 [Vidéo originale de Detay.](https://youtu.be/N_6QJgHiTsM) ([vidéo supprimé depuis par l'utilisateur](screens/detay.png))<br>
 [Vidéo originale d'Adycos.](https://youtu.be/qiLu71UCc5c) ([vidéo supprimé depuis par YouTube](screens/adycos.png))<br>
-[Vidéo originale de Merci/Kryzoy](https://youtu.be/MLuZz-wL6_Y)
+[Vidéo originale de Merci/Kryzoy.](https://youtu.be/MLuZz-wL6_Y) ([vidéo supprimé vu que YouTube a supprimé som compte](screens/kryzoy.png))<br>
