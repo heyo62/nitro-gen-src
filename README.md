@@ -11,5 +11,7 @@ Ce répertoire met en avant les (soi-disant) "générateurs" de Nitro qui sont �
 [Vidéo originale d'Adycos.](https://youtu.be/qiLu71UCc5c) ([vidéo supprimé depuis par YouTube](screens/adycos.png))<br>
 [Vidéo originale de Merci/Kryzoy.](https://youtu.be/MLuZz-wL6_Y) ([vidéo supprimé vu que YouTube a supprimé som compte](screens/kryzoy.png))<br>
 [Vidéo originale de FurYoz et de ZXM.*](https://youtu.be/sZFA3rZP61w)<br>
+[Programme d'IKARIU originellement disponible ici.](https://ptb.discord.com/channels/829088452208492554/845220397321682945/845346040596398130) ([serveur](https://discord.gg/6Y6FYRQBEH)) ([screen](screens/ikariu.png))<br>
+
 
 *PS: le programme de FurYoz a été reconstruit.
